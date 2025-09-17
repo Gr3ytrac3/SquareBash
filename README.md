@@ -34,7 +34,7 @@ Sophisticated tools for security professionals and experienced system administra
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bash-projects.git
+git clone https://github.com/Gr3ytrac3/SquareBash.git
 cd bash-projects
 
 # Make scripts executable
