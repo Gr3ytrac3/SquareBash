@@ -1,56 +1,9 @@
-# squarebash
+# SquareBash
 > ![SquareBash Mainframe](https://github.com/Gr3ytrac3/SquareBash/blob/18b520f89f5cdb3ee6d6de16220e9b2dde35797f/squarebashmainframe.png)
 
 A comprehensive collection of bash scripts, tools, and frameworks for system administration, security, and automation.
 [![License](https://img.shields.io/badge/license-MIT-9D00FF)](https://github.com/Gr3ytrac3/SquareBash/blob/f319893654018e75289e8defeaa3abf255e23d7a/LICENSE)
-[![Safe Usage](https://img.shields.io/badge/Safe%20Usage-Research%20%26%20Education-blue)](SAFE_USAGE.md)
-## Repository Structure
-
-```
-bash-projects/
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── .github/
-│   ├── workflows/
-│   │   ├── shellcheck.yml
-│   │   └── tests.yml
-│   ├── ISSUE_TEMPLATE/
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   └── PULL_REQUEST_TEMPLATE.md
-├── beginner/
-│   ├── dotfile-manager/
-│   ├── auto-installer/
-│   └── syshealth/
-├── intermediate/
-│   ├── network-scanner/
-│   ├── system-hardener/
-│   └── audit-toolkit/
-├── advanced/
-│   ├── kernelscout/
-│   ├── offensive-recon-framework/
-│   ├── kernelpatch-detector/
-│   ├── stealth-persistence-framework/
-│   └── privesc-automator/
-├── utilities/
-│   ├── common-functions/
-│   ├── logging/
-│   └── error-handling/
-├── docs/
-│   ├── bash-best-practices.md
-│   ├── security-considerations.md
-│   ├── testing-guide.md
-│   └── deployment-guide.md
-├── tests/
-│   ├── unit/
-│   ├── integration/
-│   └── test-utils.sh
-└── examples/
-    ├── basic-scripts/
-    ├── advanced-examples/
-    └── real-world-scenarios/
-```
+[![Security Considerations](https://img.shields.io/badge/Safe%20Usage-Research%20%26%20Education-blue)](SAFE_USAGE.md)
 
 ## Project Categories
 
@@ -98,12 +51,12 @@ cd ../../intermediate/network-scanner
 
 ## Features
 
-- 📁 **Well-organized structure** - Projects categorized by complexity level
-- 🧪 **Comprehensive testing** - Unit and integration tests included
-- 📚 **Detailed documentation** - Each project includes thorough README files
-- 🔒 **Security-focused** - Tools for security assessment and system hardening
-- ⚡ **Production-ready** - Scripts designed for real-world usage
-- 🛠️ **Utilities included** - Common functions and error handling modules
+-  **Well-organized structure** - Projects categorized by complexity level
+-  **Comprehensive testing** - Unit and integration tests included
+-  **Detailed documentation** - Each project includes thorough README files
+-  **Security-focused** - Tools for security assessment and system hardening
+-  **Production-ready** - Scripts designed for real-world usage
+-  **Utilities included** - Common functions and error handling modules
 
 ## Installation
 
@@ -196,13 +149,13 @@ See [docs/security-considerations.md](docs/security-considerations.md) for detai
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Gr3ytrac3/SquareBash/blob/f319893654018e75289e8defeaa3abf255e23d7a/LICENS) file for details.
 
 ## Author
 
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Gr3ytrac3](https://github.com/Gr3ytrac3)
+- Email: cyberdevhq@proton.me
 
 ## Acknowledgments
 
@@ -221,4 +174,4 @@ If you find this repository helpful:
 
 ---
 
-**Disclaimer**: These tools are for educational and authorized testing purposes only. Users are responsible for complying with applicable laws and obtaining proper authorization before using security-related tools.
+⚠️ **Disclaimer**: These tools are for educational and authorized testing purposes only. Users are responsible for complying with applicable laws and obtaining proper authorization before using security-related tools.
