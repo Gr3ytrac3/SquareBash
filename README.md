@@ -2,7 +2,8 @@
 > ![SquareBash Mainframe](https://github.com/Gr3ytrac3/SquareBash/blob/18b520f89f5cdb3ee6d6de16220e9b2dde35797f/squarebashmainframe.png)
 
 A comprehensive collection of bash scripts, tools, and frameworks for system administration, security, and automation.
-
+[![License](https://img.shields.io/badge/license-MIT-9D00FF)](https://github.com/Gr3ytrac3/SquareBash/blob/f319893654018e75289e8defeaa3abf255e23d7a/LICENSE)
+[![Safe Usage](https://img.shields.io/badge/Safe%20Usage-Research%20%26%20Education-blue)](SAFE_USAGE.md)
 ## Repository Structure
 
 ```
