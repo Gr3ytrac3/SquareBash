@@ -1,5 +1,5 @@
 # squarebash
-> ![SquareBash Mainframe](https://github.com/Gr3ytrac3/IMPOSSIBLE/blob/850e1a89a40f4a8054f20877324e37300575e0bc/impossible.png)
+> ![SquareBash Mainframe](https://github.com/Gr3ytrac3/SquareBash/blob/18b520f89f5cdb3ee6d6de16220e9b2dde35797f/squarebashmainframe.png)
 
 A comprehensive collection of bash scripts, tools, and frameworks for system administration, security, and automation.
 
