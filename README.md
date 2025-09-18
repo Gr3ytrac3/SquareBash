@@ -147,13 +147,10 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 
 See [docs/security-considerations.md](docs/security-considerations.md) for detailed guidelines.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Gr3ytrac3/SquareBash/blob/75ad0af7a5882992b6f6cb635afb545a50bb086f/LICENSE) file for details.
 
 ## Author
 
-**[Your Name]**
+**[RedKernel]**
 - GitHub: [@Gr3ytrac3](https://github.com/Gr3ytrac3)
 - Email: cyberdevhq@proton.me
 
