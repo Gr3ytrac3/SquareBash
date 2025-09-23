@@ -95,15 +95,3 @@ This copies dotfiles from the repo into your home directory. Perfect for fresh i
 * Add **OS detection** (Ubuntu, Arch, Fedora) for cross-distro setup
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for details.
-
----
-
-✅ That gives you a clean structure, safe disclaimers, and room for future features.
-
-Do you want me to also **draft the three scripts (backup.sh, sync.sh, install.sh)** in a working but minimal version so you can start testing right away?
-
