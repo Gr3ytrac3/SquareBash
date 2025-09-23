@@ -84,14 +84,3 @@ This copies dotfiles from the repo into your home directory. Perfect for fresh i
 * The dotfiles included here are **my personal setup**.
 * If you want to use this project, **replace the contents of the `dotfiles/` folder with your own files**.
 * **Never commit sensitive files** (SSH keys, API keys, GPG private keys, etc.). Add them to `.gitignore`.
-
----
-
-## 🔧 Future Improvements (optional ideas)
-
-* Add **interactive menu** to select which dotfiles to install/backup
-* Add **symlink management** (using GNU `stow` or `ln -s`) instead of direct copy
-* Add **package installer script** for dependencies (e.g., zsh, vim plugins, tmux)
-* Add **OS detection** (Ubuntu, Arch, Fedora) for cross-distro setup
-
----
