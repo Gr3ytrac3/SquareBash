@@ -5,7 +5,7 @@ A comprehensive collection of bash scripts, tools, and frameworks for system adm
 [![License](https://img.shields.io/badge/license-MIT-9D00FF)](https://github.com/Gr3ytrac3/SquareBash/blob/f319893654018e75289e8defeaa3abf255e23d7a/LICENSE)
 [![Security Considerations](https://img.shields.io/badge/Safe%20Security-Security%20%26%20Considerations-blue)](https://github.com/Gr3ytrac3/SquareBash/blob/cb71d1039b377485f14a572c1df6ab7dfd1719e6/docs/security-considerations.md)
 
-## **Project Categories**
+# **Categories**
 
 ### 🟢 **Beginner Projects**
 Perfect for those starting with bash scripting and system administration.
