@@ -5,23 +5,23 @@ A comprehensive collection of bash scripts, tools, and frameworks for system adm
 [![License](https://img.shields.io/badge/license-MIT-9D00FF)](https://github.com/Gr3ytrac3/SquareBash/blob/f319893654018e75289e8defeaa3abf255e23d7a/LICENSE)
 [![Security Considerations](https://img.shields.io/badge/Safe%20Security-Security%20%26%20Considerations-blue)](https://github.com/Gr3ytrac3/SquareBash/blob/cb71d1039b377485f14a572c1df6ab7dfd1719e6/docs/security-considerations.md)
 
-## Project Categories
+## **Project Categories**
 
-### 🟢 Beginner Projects
+### 🟢 **Beginner Projects**
 Perfect for those starting with bash scripting and system administration.
 
 - **[Dotfile Manager](beginner/dotfile-manager/)** - Synchronize configuration files across machines
 - **[Auto Installer Script](beginner/auto-installer/)** - Distribution-aware package installer
 - **[SysHealth Report Generator](beginner/syshealth/)** - System performance monitoring
 
-### 🟡 Intermediate Projects
+### 🟡 **Intermediate Projects**
 For users with solid bash fundamentals looking to tackle more complex scenarios.
 
 - **[Network Scanner CLI](intermediate/network-scanner/)** - Unified network discovery interface
 - **[System Hardener Script](intermediate/system-hardener/)** - Security best practices automation
 - **[Audit Toolkit](intermediate/audit-toolkit/)** - Security misconfiguration detection
 
-### 🔴 Advanced Projects
+### 🔴 **Advanced Projects**
 Sophisticated tools for security professionals and experienced system administrators.
 
 - **[KernelScout](advanced/kernelscout/)** - Kernel analysis and vulnerability detection
@@ -30,7 +30,7 @@ Sophisticated tools for security professionals and experienced system administra
 - **[Stealth Persistence Framework](advanced/stealth-persistence-framework/)** - Educational persistence demonstration
 - **[Privilege Escalation Automator](advanced/privesc-automator/)** - Comprehensive privilege escalation toolkit
 
-## Quick Start
+## **Quick Start**
 
 ```bash
 # Clone the repository
@@ -49,7 +49,7 @@ cd ../../intermediate/network-scanner
 ./netscan.sh --cidr 192.168.1.0/24
 ```
 
-## Features
+## **Features**
 
 -  **Well-organized structure** - Projects categorized by complexity level
 -  **Comprehensive testing** - Unit and integration tests included
@@ -58,15 +58,15 @@ cd ../../intermediate/network-scanner
 -  **Production-ready** - Scripts designed for real-world usage
 -  **Utilities included** - Common functions and error handling modules
 
-## Installation
+## **Installation**
 
-### Prerequisites
+### **Prerequisites**
 
 - Bash 4.0 or higher
 - Standard Linux utilities (find, grep, awk, etc.)
 - Root access (for some security tools)
 
-### System Dependencies
+### **System Dependencies**
 
 Most projects will automatically check for and install required dependencies. For manual installation:
 
@@ -82,27 +82,27 @@ sudo yum install curl wget nmap netdiscover arp-scan
 sudo pacman -S curl wget nmap netdiscover arp-tools
 ```
 
-## Usage Examples
+## **Usage Examples**
 
-### System Health Monitoring
+### **System Health Monitoring**
 ```bash
 cd beginner/syshealth
 ./syshealth.sh --format json --modules cpu,memory,disk
 ```
 
-### Network Discovery
+### **Network Discovery**
 ```bash
 cd intermediate/network-scanner
 ./netscan.sh --cidr 192.168.1.0/24 --type full --output csv
 ```
 
-### Security Hardening
+### **Security Hardening**
 ```bash
 cd intermediate/system-hardener
 sudo ./harden.sh --modules services,kernel,firewall --dry-run
 ```
 
-## Testing
+## **Testing**
 
 Run the test suite to ensure all scripts work correctly on your system:
 
@@ -117,7 +117,7 @@ Run the test suite to ensure all scripts work correctly on your system:
 find . -name "*.sh" -exec shellcheck {} \;
 ```
 
-## Contributing
+## **Contributing**
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -127,7 +127,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 4. Push to the branch (`git push origin feature/amazing-tool`)
 5. Open a Pull Request
 
-### Coding Standards
+### **Coding Standards**
 
 - Follow bash best practices (see [docs/bash-best-practices.md](docs/bash-best-practices.md))
 - Include comprehensive error handling
@@ -135,7 +135,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 - Write tests for new functionality
 - Update documentation
 
-## Security Considerations
+## **Security Considerations**
 
 ⚠️ **Important Security Notice**: Many tools in this repository are designed for security testing and system administration. Please note:
 
@@ -148,19 +148,13 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 See [docs/security-considerations.md](docs/security-considerations.md) for detailed guidelines.
 
 
-## Author
+## **Author**
 
 **[RedKernel]**
 - GitHub: [@Gr3ytrac3](https://github.com/Gr3ytrac3)
 - Email: cyberdevhq@proton.me
 
-## Acknowledgments
-
-- Thanks to the bash community for inspiration
-- Security researchers who document techniques
-- Open source contributors who make tools like shellcheck possible
-
-## Support
+## **Support**
 
 If you find this repository helpful:
 
